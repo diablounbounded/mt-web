@@ -1,3 +1,4 @@
+
 from transformers import MarianMTModel, MarianTokenizer
 import gradio as gr
 import os
@@ -369,4 +370,4 @@ demo.css = """
 
 
 """
-demo.launch(server_name="0.0.0.0",server_port=7983)
+demo.launch(server_name="0.0.0.0",server_port=7999)
