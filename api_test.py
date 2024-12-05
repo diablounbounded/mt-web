@@ -4,7 +4,7 @@ def gpt4_translate(text, target_lang, api_key):
     # 设置 OpenAI API 密钥
 
     client = openai.AzureOpenAI(
-        azure_endpoint="https://tlsm-gpt4o-test2.openai.azure.com/",
+        azure_endpoint="",
         api_key=api_key,
         api_version="2024-07-01-preview",
     )
