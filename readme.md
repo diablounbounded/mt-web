@@ -18,13 +18,7 @@
 - **用户反馈**：
   - 提供反馈提交功能，保存用户建议和意见。
 
-
-## 项目目录结构
-├── config.json          
-├── mapping.jsonl        
-├── log.txt              
-├── badcase.jsonl        
-├── infer.py              
+             
 
 ## 启动程序
 - 启动应用：
